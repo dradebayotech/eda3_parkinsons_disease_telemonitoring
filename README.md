@@ -1,5 +1,5 @@
-# 🧠 EDA PROJECT 3:
-# Mapping Parkinson's Journey — An Exploratory Analysis of Telemonitoring Data
+# 🧠 EDA PROJECT 3
+# Mapping Parkinson's Journey: An Exploratory Analysis of Telemonitoring Data
 
 ---
 
