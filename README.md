@@ -20,16 +20,16 @@ This project undertakes an Exploratory Data Analysis (EDA) of a Parkinson's dise
 
 ## 🔍 Key Exploratory Questions Addressed
 
-1. What are the main variables present in the Parkinson’s telemonitoring dataset?
-2. How do **motor_UPDRS** and **total_UPDRS** scores vary across patients and over time?
-3. What patterns emerge in **voice frequency features** (MDVP measures) related to disease severity?
-4. How does the distribution of **age** and **sex** relate to UPDRS variability?
-5. Are there strong correlations between vocal biomarkers and clinical scores?
-6. Which features exhibit potential multicollinearity or redundancy?
-7. What outliers exist in the dataset, and how do they influence observed trends?
-8. How stable are the telemonitored features across repeated sessions for each subject?
-9. Can we visually distinguish high vs. low UPDRS cases through pairplots and histograms?
-10. What early hypotheses can be drawn about telemonitoring as a predictive tool for Parkinson’s progression?
+1. Are there specific vocal characteristics that are associated with the severity of Parkinson's disease symptoms?
+2. Which voice features show the strongest linear relationship with motor and total UPDRS scores?
+3. Do any of the voice features appear to be potential indicators or predictors of Parkinson's disease severity?
+4. How do motor and total UPDRS scores change over time for individual subjects?
+5. Do key voice features show a discernible trend (increase or decrease) over time within individual subjects?
+6. Is there significant variability in the rate of UPDRS score change or voice feature change across different subjects?
+7. How do demographic factors (age, sex) relate to the baseline UPDRS scores or the rate of progression over time?
+8. Is there a relationship between the initial severity of Parkinson's disease (e.g., baseline UPDRS score) and the rate at which UPDRS scores or voice features change over time?
+9. Are there differences in the distribution of motor and total UPDRS scores between male and female subjects?
+10. Are there differences in the distribution of key voice features between male and female subjects?
 
 ---
 
