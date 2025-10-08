@@ -56,7 +56,7 @@ This project undertakes an Exploratory Data Analysis (EDA) of a Parkinson's dise
 ```
 eda3_parkinsons_disease_telemonitoring/
 │── notebooks/
-│   └── EDA_Project3_Parkinsons.ipynb
+│   └── EDA_Project_3_Oxford_Parkinson_Disease_Telemonitoring.ipynb
 │── images/
 │   ├── updrs_distribution.png
 │   ├── heatmap.png
