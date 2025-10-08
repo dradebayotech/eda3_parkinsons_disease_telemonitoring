@@ -73,7 +73,7 @@ eda3_parkinsons_disease_telemonitoring/
 
 Due to data licensing restrictions, the dataset is not uploaded to this repository.
 You can access it here:
-👉 [Oxford Parkinson’s Disease Telemonitoring Dataset (UCI Repository)](https://archive.ics.uci.edu/ml/datasets/parkinsons+telemonitoring)
+👉 [Oxford Parkinson’s Disease Telemonitoring Dataset](https://www.kaggle.com/datasets/dankok/oxford-parkinsons-disease-telemonitoring-dataset)
 
 ---
 
