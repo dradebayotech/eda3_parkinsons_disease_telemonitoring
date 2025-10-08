@@ -45,11 +45,9 @@ This project undertakes an Exploratory Data Analysis (EDA) of a Parkinson's dise
 
 ## 📸 Sample Visuals
 
-| UPDRS Score Distribution                             | Correlation Heatmap                        | Voice Feature Trends                     | Outlier Detection                |
-| ---------------------------------------------------- | ------------------------------------------ | ---------------------------------------- | -------------------------------- |
-| ![UPDRS Distribution](images/updrs_distribution.png) | ![Correlation Heatmap](images/heatmap.png) | ![Voice Trends](images/voice_trends.png) | ![Outliers](images/outliers.png) |
-
-*(Save these plots from your notebook as `.png` files and upload them into the `images/` folder in this repo.)*
+|   Distribution of Key Parkinson's Disease Features  | Correlation Heatmap of UPDRS Scores and Voice Features |  Motor and Total UPDRS Scores Over Time  |       Voice Features linear relationship      |
+| ----------------------------------------------------| -------------------------------------------------------| ---------------------------------------- |  -------------------------------------------- |
+|![Key Features Distribution](images/key_features.png)|        ![Correlation Heatmap](images/heatmap.png)      |![UPDRS Scores](images/score_overtime.png)|   ![strongest relationship](images/vflr.png)  |
 
 ---
 
