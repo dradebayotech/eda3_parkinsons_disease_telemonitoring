@@ -75,7 +75,7 @@ You can access it here:
 
 ---
 
-## 🚀 Next Steps
+## 🚀 Future Works
 
 * Apply **feature selection** and correlation filtering
 * Develop **predictive regression models** for UPDRS estimation
